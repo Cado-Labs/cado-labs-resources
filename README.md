@@ -3,7 +3,7 @@
 <img src="cado_labs_badge.png" alt="Supported by Cado Labs" />
 
 ```markdown
-[![Supporting](https://github.com/Cado-Labs/cado-labs-logos/blob/main/cado_labs_badge.png)](https://github.com/Cado-Labs/cado-labs-logos/blob/main/cado_labs_badge.png)
+[![Supporting](https://github.com/Cado-Labs/cado-labs-logos/blob/main/cado_labs_badge.png)](https://github.com/Cado-Labs/)
 ```
 
 ## Logo
