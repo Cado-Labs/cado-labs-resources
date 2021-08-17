@@ -1,9 +1,9 @@
 ## Badge
 
-<img src="cado_labs_badge.png" alt="Supported by Cado Labs" />
+<img src="cado_labs_badge.svg" alt="Supported by Cado Labs" />
 
 ```markdown
-[![Supporting](https://github.com/Cado-Labs/cado-labs-resources/blob/main/cado_labs_badge.png)](https://github.com/Cado-Labs/)
+[![Supporting](https://github.com/Cado-Labs/cado-labs-resources/blob/main/cado_labs_badge.svg)](https://github.com/Cado-Labs/)
 ```
 
 ## Supporting
