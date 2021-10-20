@@ -2,15 +2,11 @@
 
 #### General size:
 
-- Logo-outside variant (general):
-
 <img src="cado_labs_badge.png" alt="Supported by Cado Labs" />
 
 ```markdown
 [![Supporting](https://github.com/Cado-Labs/cado-labs-resources/blob/main/cado_labs_badge.png)](https://github.com/Cado-Labs/)
 ```
-
-- Logo-inside variant
 
 <img src="cado_labs_badge_outside.png" alt="Supported by Cado Labs" />
 
@@ -18,17 +14,13 @@
 [![Supporting](https://github.com/Cado-Labs/cado-labs-resources/blob/main/cado_labs_badge_outside.png)](https://github.com/Cado-Labs/)
 ```
 
-#### Medium sizes:
-
-- Medium size (logo-inside):
+#### Medium sizes
 
 <img src="cado_labs_badge_medium.png" alt="Supported by Cado Labs" />
 
 ```markdown
 [![Supporting](https://github.com/Cado-Labs/cado-labs-resources/blob/main/cado_labs_badge_medium.png)](https://github.com/Cado-Labs/)
 ```
-
-- Medium size (logo-outside):
 
 <img src="cado_labs_badge_medium_outside.png" alt="Supported by Cado Labs" />
 
