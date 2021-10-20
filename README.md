@@ -32,6 +32,14 @@
 <img src="https://github.com/Cado-Labs/cado-labs-resources/blob/main/cado_labs_supporting.svg" alt="Supported by Cado Labs" />
 ```
 
+## Logo (Supporting)
+
+<img src="cado_labs_promo_logo.png" alt="Supported by Cado Labs" />
+
+```html
+<img src="https://github.com/Cado-Labs/cado-labs-resources/blob/main/cado_labs_logo.png" alt="Supported by Cado Labs" />
+```
+
 ## Logo (Promo)
 
 **png**:
