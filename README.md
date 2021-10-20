@@ -1,8 +1,3 @@
-## Files (multiple variants):
-
-- these fils contains many other variants (black/white, images with another logo positions);
-- [files placed here](https://github.com/Cado-Labs/cado-labs-resources/tree/main/__raw_resources)
-
 ## Badge
 
 <img src="cado_labs_badge.png" alt="Supported by Cado Labs" />
@@ -62,6 +57,12 @@
 ```html
 <img src="https://github.com/Cado-Labs/cado-labs-resources/blob/main/cado_labs_character.png" alt="Cado Labs" />
 ```
+
+## Other variants
+
+- additional files contains many other variants (black/white, images with another logo position);
+- additional files contains other formats (`eps`, `png`, `svg`)
+- [files placed here](https://github.com/Cado-Labs/cado-labs-resources/tree/main/__raw_resources)
 
 ## License
 
