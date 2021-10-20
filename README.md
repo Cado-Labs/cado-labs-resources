@@ -46,10 +46,10 @@
 
 ## Character
 
-<img src="cado_labs_character.svg" alt="Supported by Cado Labs" />
+<img src="cado_labs_character.png" alt="Supported by Cado Labs" />
 
 ```html
-<img src="https://github.com/Cado-Labs/cado-labs-resources/blob/main/cado_labs_character.svg" alt="Cado Labs" />
+<img src="https://github.com/Cado-Labs/cado-labs-resources/blob/main/cado_labs_character.png" alt="Cado Labs" />
 ```
 
 ## License
