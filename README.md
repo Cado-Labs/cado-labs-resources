@@ -34,10 +34,20 @@
 
 ## Logo (Promo)
 
+**png**:
+
 <img src="cado_labs_promo_logo.png" alt="Supported by Cado Labs" />
 
 ```html
 <img src="https://github.com/Cado-Labs/cado-labs-resources/blob/main/cado_labs_promo_logo.png" alt="Cado Labs" />
+```
+
+**svg**:
+
+<img src="cado_labs_promo_logo.svg" alt="Supported by Cado Labs" />
+
+```html
+<img src="https://github.com/Cado-Labs/cado-labs-resources/blob/main/cado_labs_promo_logo.svg" alt="Cado Labs" />
 ```
 
 ## Character
