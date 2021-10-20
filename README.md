@@ -62,7 +62,7 @@
 
 - additional files contains many other variants (black/white, images with another logo position);
 - additional files contains other formats (`eps`, `png`, `svg`)
-- [files placed here](https://github.com/Cado-Labs/cado-labs-resources/tree/main/__raw_resources)
+- [resources link](https://github.com/Cado-Labs/cado-labs-resources/tree/main/__raw_resources)
 
 ## License
 
