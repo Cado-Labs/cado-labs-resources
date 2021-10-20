@@ -1,9 +1,39 @@
 ## Badge
 
-<img src="cado_labs_badge.svg" alt="Supported by Cado Labs" />
+#### General size:
+
+- Logo-outside variant (general):
+
+<img src="cado_labs_badge.png" alt="Supported by Cado Labs" />
 
 ```markdown
-[![Supporting](https://github.com/Cado-Labs/cado-labs-resources/blob/main/cado_labs_badge.svg)](https://github.com/Cado-Labs/)
+[![Supporting](https://github.com/Cado-Labs/cado-labs-resources/blob/main/cado_labs_badge.png)](https://github.com/Cado-Labs/)
+```
+
+- Logo-inside variant
+
+<img src="cado_labs_badge_outside.png" alt="Supported by Cado Labs" />
+
+```markdown
+[![Supporting](https://github.com/Cado-Labs/cado-labs-resources/blob/main/cado_labs_badge_outside.png)](https://github.com/Cado-Labs/)
+```
+
+#### Medium sizes:
+
+- Medium size (logo-inside):
+
+<img src="cado_labs_badge_medium.png" alt="Supported by Cado Labs" />
+
+```markdown
+[![Supporting](https://github.com/Cado-Labs/cado-labs-resources/blob/main/cado_labs_badge_medium.png)](https://github.com/Cado-Labs/)
+```
+
+- Medium size (logo-outside):
+
+<img src="cado_labs_badge_medium_outside.png" alt="Supported by Cado Labs" />
+
+```markdown
+[![Supporting](https://github.com/Cado-Labs/cado-labs-resources/blob/main/cado_labs_badge_medium_outside.png)](https://github.com/Cado-Labs/)
 ```
 
 ## Supporting
