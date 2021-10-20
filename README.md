@@ -1,7 +1,5 @@
 ## Badge
 
-#### General size:
-
 <img src="cado_labs_badge.png" alt="Supported by Cado Labs" />
 
 ```markdown
@@ -13,8 +11,6 @@
 ```markdown
 [![Supporting](https://github.com/Cado-Labs/cado-labs-resources/blob/main/cado_labs_badge_outside.png)](https://github.com/Cado-Labs/)
 ```
-
-#### Medium sizes
 
 <img src="cado_labs_badge_medium.png" alt="Supported by Cado Labs" />
 
