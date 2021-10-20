@@ -58,7 +58,7 @@
 <img src="https://github.com/Cado-Labs/cado-labs-resources/blob/main/cado_labs_character.png" alt="Cado Labs" />
 ```
 
-## Other variants
+## Other variants (and resources)
 
 - additional files contains many other variants (black/white, images with another logo position) and other formats (`eps`, `png`, `svg`);
 - [resources link](https://github.com/Cado-Labs/cado-labs-resources/tree/main/__raw_resources)
