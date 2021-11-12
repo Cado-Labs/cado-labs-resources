@@ -20,20 +20,6 @@
 </a>
 ```
 
-## Badge-based Logo
-
-<img src="cado_labs_badge_medium.png" alt="Supported by Cado Labs" />
-
-```markdown
-[![Supporting](https://github.com/Cado-Labs/cado-labs-resources/blob/main/cado_labs_badge_medium.png)](https://github.com/Cado-Labs/)
-```
-
-<img src="cado_labs_badge_medium_outside.png" alt="Supported by Cado Labs" />
-
-```markdown
-[![Supporting](https://github.com/Cado-Labs/cado-labs-resources/blob/main/cado_labs_badge_medium_outside.png)](https://github.com/Cado-Labs/)
-```
-
 ## Supporting
 
 <img src="cado_labs_supporting.svg" alt="Supported by Cado Labs" />
