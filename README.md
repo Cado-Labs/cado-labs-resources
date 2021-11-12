@@ -5,7 +5,6 @@
 </a>
 
 ```html
-<!-- minimalistic variant -->
 <a target="_blank" href="https://github.com/Cado-Labs">
   <img src="https://github.com/Cado-Labs/cado-labs-logos/raw/main/cado_labs_badge.svg" alt="Supported by Cado Labs" style="max-width: 100%; height: 20px">
 </a>
@@ -16,7 +15,6 @@
 </a>
 
 ```html
-<!-- big variant -->
 <a target="_blank" href="https://github.com/Cado-Labs">
   <img src="https://github.com/Cado-Labs/cado-labs-logos/raw/main/cado_labs_badge.svg" alt="Supported by Cado Labs" style="max-width: 100%;">
 </a>
