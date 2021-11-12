@@ -22,6 +22,12 @@
 
 ## Supporting
 
+<img src="cado_labs_supporting_rounded.svg" alt="Supported by Cado Labs" />
+
+```html
+<img src="https://github.com/Cado-Labs/cado-labs-resources/blob/main/cado_labs_supporting_rounded.svg" alt="Supported by Cado Labs" />
+```
+
 <img src="cado_labs_supporting.svg" alt="Supported by Cado Labs" />
 
 ```html
