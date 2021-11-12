@@ -1,24 +1,20 @@
-## (New badge)
+## Badge
 
-<img src="cado_labs_badge.svg" alt="Supported by Cado Labs" />
+<a target="_blank" href="https://github.com/Cado-Labs">
+  <img src="/Cado-Labs/cado-labs-resources/raw/main/cado_labs_badge.svg" alt="Supported by Cado Labs" style="max-width: 100%; height: 20px">
+</a>
 
-```
+```markdown
 [![Supporting](https://github.com/Cado-Labs/cado-labs-resources/blob/main/cado_labs_badge.svg)](https://github.com/Cado-Labs/)
 ```
 
-## Badge
-
-<img src="cado_labs_badge.png" alt="Supported by Cado Labs" />
-
-```markdown
-[![Supporting](https://github.com/Cado-Labs/cado-labs-resources/blob/main/cado_labs_badge.png)](https://github.com/Cado-Labs/)
+```html
+<a target="_blank" rel="noopener noreferrer" href="/Cado-Labs/cado-labs-resources/blob/main/cado_labs_badge.svg">
+  <img src="/Cado-Labs/cado-labs-resources/raw/main/cado_labs_badge.svg" alt="Supported by Cado Labs" style="max-width: 100%; height: 20px">
+</a>
 ```
 
-<img src="cado_labs_badge_outside.png" alt="Supported by Cado Labs" />
-
-```markdown
-[![Supporting](https://github.com/Cado-Labs/cado-labs-resources/blob/main/cado_labs_badge_outside.png)](https://github.com/Cado-Labs/)
-```
+## Badge-based Logo
 
 <img src="cado_labs_badge_medium.png" alt="Supported by Cado Labs" />
 
