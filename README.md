@@ -1,16 +1,12 @@
 ## Badge
 
 <a target="_blank" href="https://github.com/Cado-Labs">
-  <img src="/Cado-Labs/cado-labs-resources/raw/main/cado_labs_badge.svg" alt="Supported by Cado Labs" style="max-width: 100%; height: 20px">
+  <img src="https://github.com/Cado-Labs/cado-labs-logos/raw/main/cado_labs_badge.svg" alt="Supported by Cado Labs" style="max-width: 100%; height: 20px">
 </a>
 
-```markdown
-[![Supporting](https://github.com/Cado-Labs/cado-labs-resources/blob/main/cado_labs_badge.svg)](https://github.com/Cado-Labs/)
-```
-
 ```html
-<a target="_blank" rel="noopener noreferrer" href="/Cado-Labs/cado-labs-resources/blob/main/cado_labs_badge.svg">
-  <img src="/Cado-Labs/cado-labs-resources/raw/main/cado_labs_badge.svg" alt="Supported by Cado Labs" style="max-width: 100%; height: 20px">
+<a target="_blank" href="https://github.com/Cado-Labs">
+  <img src="https://github.com/Cado-Labs/cado-labs-logos/raw/main/cado_labs_badge.svg" alt="Supported by Cado Labs" style="max-width: 100%; height: 20px">
 </a>
 ```
 
